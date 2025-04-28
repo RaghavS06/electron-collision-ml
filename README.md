@@ -3,6 +3,11 @@
 This project builds deep learning models to predict the **invariant mass** of electron collision events at **CERN** using simulated data.  
 Predicting invariant mass is crucial for identifying and studying fundamental particles like the Higgs boson.
 
+<p align="center">
+  <img src="resources/cern.jpg" width="400">
+</p>
+
+
 - 🎯 Invariant mass helps physicists detect rare particle interactions.
 - ⚡ Faster, ML-based predictions can assist in real-time data analysis at particle accelerators.
 - 🧠 Exploring machine learning applications in high-energy physics is a growing frontier!
