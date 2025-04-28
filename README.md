@@ -18,6 +18,9 @@ Predicting invariant mass is crucial for identifying and studying fundamental pa
 - **Models Used**:  
   - Fully Connected Neural Networks (Deep Learning)
   - Baseline Linear Models for comparison
+ <p align="center">
+  <img src="resources/model_arch.png" width="400">
+</p>
 - **Evaluation Metrics**: Mean Absolute Error (MAE), visualization of prediction accuracy.
 
 > *(Add a GIF or plot here showing model predictions vs. ground truth!)*
@@ -34,6 +37,10 @@ Example of prediction results:
 ---
 
 ## 📈 Results
+
+<p align="center">
+  <img src="resources/CERNresults.png" width="400">
+</p>
 
 - Neural networks outperform traditional models significantly.
 - Achieved a [your metric here, like "mean absolute error of X"] on the test set.
