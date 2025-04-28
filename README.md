@@ -13,7 +13,7 @@ Predicting invariant mass is crucial for identifying and studying fundamental pa
 - 🧠 Exploring machine learning applications in high-energy physics is a growing frontier!
 
 ### Methods
-- **Dataset**: Simulated electron collision events.
+- **Dataset**: REAL electron collision events at CERN.
 - **Preprocessing**: Normalized features such as energy and momentum.
 - **Models Used**:  
   - Fully Connected Neural Networks (Deep Learning)
