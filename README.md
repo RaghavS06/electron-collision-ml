@@ -21,20 +21,13 @@ Predicting invariant mass is crucial for identifying and studying fundamental pa
  <p align="center">
   <img src="resources/model_arch.png" width="400">
 </p>
-- **Evaluation Metrics**: Mean Absolute Error (MAE), visualization of prediction accuracy.
+- Evaluation Metrics: Mean Absolute Error (MAE), visualization of prediction accuracy.
 
-> *(Add a GIF or plot here showing model predictions vs. ground truth!)*
-
-Example of prediction results:
-![Prediction vs Ground Truth](link_to_your_plot_image_or_gif)
-
-#Tech Stack
+### Tech Stack
 - Python 🐍
 - TensorFlow / Keras 🔥
 - NumPy / Pandas 📊
 - Matplotlib / Seaborn 📈
-
----
 
 ## 📈 Results
 
@@ -42,7 +35,7 @@ Example of prediction results:
   <img src="resources/CERNresults.png" width="400">
 </p>
 
-- Neural networks outperform traditional models significantly.
-- Achieved a [your metric here, like "mean absolute error of X"] on the test set.
+- Neural networks significantly outperform traditional models.
+- Achieved a Mean Squared Error of only 0.181 GeV on the test set.
 
 ---
